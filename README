@@ -1,0 +1,2 @@
+yarn run lispi <filename> (-- --print)
+filename: test or test2
